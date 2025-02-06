@@ -20,7 +20,7 @@ const Nav = () => {
                  <ul className="   list-none flex justify-end items-center gap-5 text-gray-600 font-semibold">
                  <li className=" hover:text-gray-900 hover:font-bold"><a href="">Home</a></li>
                     <li className=" hover:text-gray-900 hover:font-bold"><a href="">About Me</a></li>
-                    <li className=" hover:text-gray-900 hover:font-bold"><a href="">COntact</a></li>
+                    <li className=" hover:text-gray-900 hover:font-bold"><a href="">Contact</a></li>
                     <li className=" hover:text-gray-900 hover:font-bold"><a href="">Education</a></li>
                  </ul>
           
